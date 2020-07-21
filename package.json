@@ -1,0 +1,14 @@
+{
+	"name": "thwcorbin-resume",
+	"version": "1.0.0",
+	"description": "Tom's resume",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"print resume": "./index.js"
+	},
+	"author": "Tom Corbin",
+	"license": "ISC"
+}

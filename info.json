@@ -1,0 +1,19 @@
+{
+	"name": "Tom Corbin",
+	"website": "https://www.thwcorbin.com/",
+	"github": "thwcorbin",
+	"email": "thwcorbin@gmail.com",
+	"resume": "https://thwcorbin.github.io/assets/thwcorbin-resume.pdf",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Vue",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django"
+	],
+	"otherSkills": ["Cooking", "Cricket", "Games"]
+}
