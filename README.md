@@ -11,12 +11,14 @@ Repo: https://github.com/ThwCorbin/thwcorbin-resume/
 - JavaScript
 - Node.js
 
+## Usage
+
+- run `npm i thwcorbin-resume` in the terminal
+- run `print-resume` in the terminal
+
 ## Installation
 
 - Clone the repo: https://github.com/ThwCorbin/thwcorbin-resume
-
-## Usage
-
 - cd to the thwcorbin-resume directory
 - open index.html in your browser(1)
 
