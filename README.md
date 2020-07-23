@@ -6,6 +6,8 @@ Website: https://thwcorbin.github.io/thwcorbin-resume/
 
 Repo: https://github.com/ThwCorbin/thwcorbin-resume/
 
+NPM package: https://www.npmjs.com/package/thwcorbin-resume
+
 ## Technologies
 
 - JavaScript
